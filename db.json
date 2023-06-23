@@ -1,0 +1,46 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "title": "CSS",
+      "author": "Sachin",
+      "status": false
+    },
+    {
+      "title": "React Js",
+      "author": "Nitesh ",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "HTML",
+      "author": "Nitesh",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "JavaScript",
+      "author": "Nitesh",
+      "status": true,
+      "id": 5
+    },
+    {
+      "title": "Java",
+      "author": "Ab",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "nodejs",
+      "author": "loki",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Hackhathone",
+      "author": "Nitesh",
+      "status": true,
+      "id": 8
+    }
+  ]
+}
